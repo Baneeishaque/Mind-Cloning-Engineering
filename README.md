@@ -69,8 +69,9 @@ Once installed, simply talk to Claude:
 
 ## 📚 Theoretical Foundation: System Architecture Whitepaper
 
-*[中文版](docs/Mind-Cloning-Engineering-System-Architecture.md)
-*[English Version](docs/Mind-Cloning-Engineering-System-Architecture-EN.md)
+* [中文版](docs/Mind-Cloning-Engineering-System-Architecture.md)
+
+* [English Version](docs/Mind-Cloning-Engineering-System-Architecture-EN.md)
 
 > *The following section details the theoretical framework behind MCE. It transforms the abstract concept of "Mind Cloning" into a quantifiable engineering pipeline.*
 
